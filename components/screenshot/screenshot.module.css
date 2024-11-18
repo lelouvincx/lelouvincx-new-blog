@@ -1,0 +1,6 @@
+.Zoom {
+    inset: 0;
+    position: fixed;
+    z-index: 1000;
+    background-color: black;
+}

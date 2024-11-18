@@ -1,0 +1,19 @@
+{
+  "index": "Landing page",
+  "setup-git-multi-ssh-profiles": "Setup Git for multiple SSH profiles",
+  "spark-data-platform": "Data platform with Apache Spark",
+  "goodreads-elt-pipelines": "Goodreads ELT pipelines",
+  "oh-my-zsh-to-zimfw": "Chuyển nhà từ oh-my-zsh sang zimfw",
+  "spotify-data-pipeline": "Spotify data pipeline",
+  "neovim-setup-ruby": "Code Ruby trên Neovim",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Resume ↗",
+    "type": "page",
+    "href": "https://drive.google.com/file/d/1b0lI1kEsajRXjAxCKMa8KotNBLbV0Zae/view?usp=drive_link",
+    "newWindow": true
+  }
+}
